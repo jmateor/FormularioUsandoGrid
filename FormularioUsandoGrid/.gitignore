@@ -1,0 +1,58 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local History for Visual Studio Code
+.history/
+.vscode-insiders/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Android
+bin/
+obj/
+*.apk
+*.aab
+
+# iOS
+.DS_Store
+
+# Rider files
+.idea/
+*.sln.iml
